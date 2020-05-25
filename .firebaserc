@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "osho-a20e0": {
+      "hosting": {
+        "osh": [
+          "osho-a20e0"
+        ]
+      }
+    }
+  }
+}

@@ -118,8 +118,13 @@
               "devServerTarget": "osh:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "osh"
 }
